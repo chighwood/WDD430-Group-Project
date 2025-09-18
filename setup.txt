@@ -1,1 +1,13 @@
 Local repo setup by Sam Bonfanti
+
+Week 3 Summary:
+We talked about how the page should work and what the landing page will look like. We came up with
+ideas and decided upon a couple things to add. We looked at a couple other websites to find looks
+that we liked and things we wanted to add. One challange we came across was what data we were going
+to need to add for our users and thier products. We will be looking more into what will need to be
+needed. One success was getting it all set up and deciding what other TODO's we need to add to our
+project board. We also started asigning ourselves to the task for the landing page.
+
+Participants:
+Sam Bonfanti
+Collin Highwood
